@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Taras
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React, JavaScript, HTML, CSS
 - 📫 You can write me in telegram - https://t.me/taras0102
