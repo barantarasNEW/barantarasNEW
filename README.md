@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Taras
 - 👀 I’m interested in front-end development
-- 📫 You can write me in telegram - https://t.me/taras0102
